@@ -20,7 +20,13 @@
 </div>
  
  <br>
- 
+  
+  ### Hello there! XD
+  Tudo bem? Eu sou a Gi! Uma estudante de programação apaixonada por tecnologia, animes e videogames. 
+  Adoro conhecer pessoas, lugares e culturas novas. Me considero uma pessoa muito curiosa e com uma
+  enorme vontade de aprender. Além de programação também me interesso muito por arte e literatura <3
+  Atualmente estou estudando HTML, CSS e JavaScrip.
+  
   ### Confira meus canais de comunicação abaixo:
  
 <div> 
