@@ -21,16 +21,11 @@
  
  <br>
   
-  <div align="left">
-   <h3> Hello there! </h3>
-   <p> Eu sou a Gi! Uma estudante de programação apaixonada por <br>
-   tecnologia, animes e videogames. <br> Adoro conhecer pessoas, lugares e culturas novas. <br> 
-   Me considero uma pessoa muito curiosa e com uma enorme vontade de aprender. <br> 
-   Além de programação também me interesso muito por arte e literatura <3 <br>
-   Atualmente estou estudando HTML, CSS e JavaScript. </p>
-   <img src="![core-princess](https://github.com/devemdobro/devemdobro/assets/86860134/1a7f295b-7fa6-40d7-bbca-1b42fad41ea4)
-" height="100" align="right">
-  </div>
+  ### Hello there!
+  Eu sou a Gi! Uma estudante de programação apaixonada por tecnologia, animes e videogames. <br> 
+  Adoro conhecer pessoas, lugares e culturas novas. Me considero uma pessoa muito curiosa e com uma <br>
+  enorme vontade de aprender. Além de programação também me interesso muito por arte e literatura <3 <br>
+  Atualmente estou estudando HTML, CSS e JavaScript.
    
   ### Confira meus canais de comunicação:
  
