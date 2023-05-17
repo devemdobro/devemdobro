@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil :)
+## Bem-vindo(a) ao meu perfil! ❤
 
 ![](https://komarev.com/ghpvc/?username=gyovnnz&color=blueviolet&style=plastic)
 
