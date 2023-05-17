@@ -2,9 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?gyovnnz&color=blueviolet&style=plastic)
 
-<p align="center">
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnintendo-gifs.tumblr.com%2Fpost%2F28058667986&psig=AOvVaw2BplDFo-6CXZGeyrO9BTkD&ust=1684381968651000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODfj_25-_4CFQAAAAAdAAAAABAI" height="180"
-</p>
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/86860134/238828574-d0346b5d-71e7-4af9-8e90-c9bbec906b60.gif" height="180"
+</div>
 
  <div>
    <a href="https://github.com/gyovnnz">
