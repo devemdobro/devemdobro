@@ -21,12 +21,15 @@
  
  <br>
   
-  ### Hello there!
-  Eu sou a Gi! Uma estudante de programação apaixonada por tecnologia, animes e videogames. <br>
-  Adoro conhecer pessoas, lugares e culturas novas. Me considero uma pessoa muito curiosa e com uma <br>
-  enorme vontade de aprender. Além de programação também me interesso muito por arte e literatura <3 <br>
-  Atualmente estou estudando HTML, CSS e JavaScript.
-  
+  <div align="left">
+   <h3> Hello there! </h3>
+   <p> Eu sou a Gi! Uma estudante de programação apaixonada por tecnologia, animes e videogames. <br>
+   Adoro conhecer pessoas, lugares e culturas novas. Me considero uma pessoa muito curiosa e com uma <br>
+   enorme vontade de aprender. Além de programação também me interesso muito por arte e literatura <3 <br>
+   Atualmente estou estudando HTML, CSS e JavaScript. </p>
+   <img src="" height="100" align="right">
+  </div>
+   
   ### Confira meus canais de comunicação:
  
 <div> 
