@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/gyovnnz&color=blueviolet&style=plastic)
 
 <p align="center">
- <img src="https://64.media.tumblr.com/5720c0b3f55bbdbb3b9c7753f04fb790/tumblr_moymevmI0v1rwai13o1_500.gif" height="180"
+ <img src="http://sexiestbob-omb.tumblr.com/post/7205376810" height="180"
 </p>
 
  <div>
