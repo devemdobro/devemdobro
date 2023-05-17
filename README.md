@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil :)
 
-![Profile views](https://ghpvc.gyovnnz&color=blueviolet&style=plastic)
+![](https://komarev.com/ghpvc/?username=gyovnnz&color=blueviolet&style=plastic)
 
 <div align="center">
  <img src="https://user-images.githubusercontent.com/86860134/238828574-d0346b5d-71e7-4af9-8e90-c9bbec906b60.gif" height="180"
