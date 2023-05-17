@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/gyovnnz&color=blueviolet&style=plastic)
 
 <p align="center">
- <img src="https://tenor.com/pt-BR/view/sailor-moon-peace-sign-stars-usagi-tsukino-あけまる-gif-16453497" height="155"
+ <img src="https://media.tenor.com/z-39U0zm-mgAAAAi/sailor-moon-peace-sign.gif" height="155"
 </p>
 
  <div>
