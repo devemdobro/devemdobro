@@ -27,7 +27,7 @@
   enorme vontade de aprender. Além de programação também me interesso muito por arte e literatura <3 <br>
   Atualmente estou estudando HTML, CSS e JavaScript.
   
-  ### Confira meus canais de comunicação abaixo:
+  ### Confira meus canais de comunicação:
  
 <div> 
   <a href="https://instagram.com/cyash_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
